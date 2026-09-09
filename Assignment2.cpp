@@ -1,3 +1,5 @@
+//Kunga Gurung 
+//Assignment 2
 #include <iostream> //Loads the input/output library so cout and cin become available.
 #include <string> //Lets us use words
 using namespace std; //Removes the need to type std:: in front of standard library names.
