@@ -12,5 +12,4 @@ int main() { //Starts the main part of the program.
         cout << number << " x " << i << " = " << number * i << endl; //Shows the multiplication result.
     }
     return 0; //Ends the program successfully.
-
 }
